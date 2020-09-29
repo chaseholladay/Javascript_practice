@@ -2,4 +2,9 @@
 // alert("Second Message");
 showMessage("Changes...");
 // below is example of an error-inspect it in browser
-showMes sage("Changes...");
+// showMes sage("Changes...");
+console.log("any message");
+//make some comments
+/*
+multi line comments
+*/
